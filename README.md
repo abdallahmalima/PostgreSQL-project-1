@@ -26,18 +26,12 @@
 
 # 📖 [vet_clinic_postgreSQL_database] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[vet_clinic_postgreSQL_database]** is the postgreSQL database project for managing a veterinary clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-
-
 
 <details>
 <summary>Database</summary>
@@ -50,8 +44,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Create database]**
 - **[Create table]**
 - **[Query data]**
@@ -62,8 +54,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,8 +61,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
